@@ -4,7 +4,7 @@
             "date": "2018-01-05",
             "groups": [
                 {
-                    "time": "30th April",
+                    "time": "10th March",
                     "sessions": [
                         {
                             "name": "Android Development",
@@ -13,8 +13,8 @@
                             "speakerNames": [
                                 "Android Development"
                             ],
-                            "timeStart": "9:15 am",
-                            "timeEnd": "9:30 am",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "Android"
                             ],
@@ -24,7 +24,7 @@
                     ]
                 },
                 {
-                    "time": "21st Febuary",
+                    "time": "12th March",
                     "sessions": [
                         {
                             "name": "Front-End Web Development",
@@ -33,31 +33,35 @@
                             "speakerNames": [
                                 "Front-End Web Development"
                             ],
-                            "timeStart": "10:00 am",
-                            "timeEnd": "10:15 am",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "FrontEnd"
                             ],
                             "id": "2"
-                        },
-                        {
-                            "name": "Data Analysis/Science",
-                            "location": "Learn Data Science And Analysis The Right Way",
-                            "description": "Become a World-class App developer, and be able to work in any organization done. \n Make pretty much any Android app you like (your only limit is your imagination)",
-                            "speakerNames": [
-                                "Data Analysis/Science"
-                            ],
-                            "timeStart": "10:15 am",
-                            "timeEnd": "10:30 am",
-                            "tracks": [
-                                "DataAnalysis"
-                            ],
-                            "id": "3"
                         }
                     ]
                 },
-                {
+                { 
                     "time": "20th March",
+                    "sessions": [{
+                        "name": "Data Analysis/Science",
+                        "location": "Learn Data Science And Analysis The Right Way",
+                        "description": "Become a World-class App developer, and be able to work in any organization done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+                        "speakerNames": [
+                            "Data Analysis/Science"
+                        ],
+                        "timeStart": "",
+                        "timeEnd": "",
+                        "tracks": [
+                            "DataAnalysis"
+                        ],
+                        "id": "3"
+                    }
+                    ]
+                },
+                {
+                    "time": "27th March",
                     "sessions": [
                         {
                             "name": "Back-End Web Development",
@@ -66,8 +70,8 @@
                             "speakerNames": [
                                 "Back-End Web Development"
                             ],
-                            "timeStart": "11:00 am",
-                            "timeEnd": "11:45 am",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "BackEnd"
                             ],
@@ -75,99 +79,57 @@
                         }
                     ]
                 },
+             
                 {
-                    "time": "31st March",
+                    "time": "4th April",
                     "sessions": [
-                        {
-                            "name": "Front-End Web Development",
-                            "location": "Dive In To The Core Of Front-End Design",
-                            "description": "Design Beautiful And Elegant User Interface, done.  \n Push Your Project Into Production",
-                            "speakerNames": [
-                                "Front-End Web Development"
-                            ],
-                            "timeStart": "10:00 am",
-                            "timeEnd": "10:15 am",
-                            "tracks": [
-                                "FrontEnd"
-                            ],
-                            "id": "2"
-                        },
-                        {
-                            "name": "Data Analysis/Science",
-                            "location": "Learn Data Science And Analysis The Right Way",
-                            "description": "Become a World-class App developer, and be able to work in any organization done. \n Make pretty much any Android app you like (your only limit is your imagination)",
-                            "speakerNames": [
-                                "Data Analysis/Science"
-                            ],
-                            "timeStart": "10:15 am",
-                            "timeEnd": "10:30 am",
-                            "tracks": [
-                                "DataAnalysis"
-                            ],
-                            "id": "3"
-                        }
-                    ]
-                },
-                {
-                    "time": "23rd May",
-                    "sessions": [
-                        {
-                            "name": "Back-End Web Development",
-                            "location": "Delve in to the world of Back-End Web Development",
-                            "description": "Complete Guide Into Programming Back-End For Web Applications",  
-                            "speakerNames": [
-                                "Back-End Web Development"
-                            ],
-                            "timeStart": "11:00 am",
-                            "timeEnd": "11:45 am",
-                            "tracks": [
-                                "BackEnd"
-                            ],
-                            "id": "4"
-                        }
-                    ]
-                },
-        
-                {
-                    "time": "21st May",
-                    "sessions": [
-                        {
-                            "name": "UI/UX Design",
-                            "location": "...",
-                            "description": "Deep Dive Into User interface/Experience Design",
-                            "speakerNames": [
-                                "UI/UX Design"
-                            ],
-                            "timeStart": "1:00 pm",
-                            "timeEnd": "1:15 pm",
-                            "tracks": [
-                                "UIDesign"
-                            ],
-                            "id": "5"
-                        },
                         {
                             "name": "Digital Marketing",
-                            "location": "...",
-                            "description": "All You Need To Know About Digital Marketing",
+                            "location": "All You Need To Know About Digital Marketing",
+                            "description": "...",
                             "speakerNames": [
                                 "Digital Marketing"
                             ],
-                            "timeStart": "1:15 pm",
-                            "timeEnd": "1:30 pm",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "Marketing"
                             ],
+                            "id": "5"
+                        }
+                    ]
+                },
+                {
+                    "time": "16th April",
+                    "sessions": [
+                        {
+                            "name": "UI/UX Design",
+                            "location": "Deep Dive Into User interface/Experience Design",
+                            "description": "...",
+                            "speakerNames": [
+                                "UI/UX Design"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "UIDesign"
+                            ],
                             "id": "6"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "time": "25th April",
+                    "sessions": [
                         {
                             "name": "Blockchain Essentials",
-                            "location": "...",
-                            "description": "Blockchain is an emerging technology that can radically improve banking, supply chain, etc and can create new opportunities for innovation.",
+                            "location": "Blockchain is an emerging technology that can radically improve banking, supply chain, etc and can create new opportunities for innovation.",
+                            "description": "...",
                             "speakerNames": [
                                 "Blockchain Essentials"
                             ],
-                            "timeStart": "1:30 pm",
-                            "timeEnd": "2:00 pm",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "Blockchain"
                             ],
@@ -176,17 +138,17 @@
                     ]
                 },
                 {
-                    "time": "21st May",
+                    "time": "28th April",
                     "sessions": [
                         {
                             "name": "Build Your Own Chatbot",
-                            "location": "...",
-                            "description": "Chatbots are one of the most exciting and in-demand topics in tech. Gartner predicts that by 2020, 85% of businesses will have their own chatbot.",
+                            "location": "Chatbots are one of the most exciting and in-demand topics in tech. Gartner predicts that by 2020, 85% of businesses will have their own chatbot.",
+                            "description": "",
                             "speakerNames": [
                                 "Chatbot"
                             ],
-                            "timeStart": "2:00 pm",
-                            "timeEnd": "2:30 pm",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "Chatbot"
                             ],
@@ -195,17 +157,17 @@
                     ]
                 },
                 {
-                    "time": "22nd May",
+                    "time": "30th May",
                     "sessions": [
                         {
                             "name": "Machine Learning with Python",
-                            "location": "Room 2201",
-                            "description": "This course dives into the basics of machine learning using an approachable, and well-known, programming language.",
+                            "location": "This course dives into the basics of machine learning using an approachable, and well-known, programming language.",
+                            "description": "",
                             "speakerNames": [
                                 "Machine Learning"
                             ],
-                            "timeStart": "3:00 pm",
-                            "timeEnd": "3:30 pm",
+                            "timeStart": "",
+                            "timeEnd": "",
                             "tracks": [
                                 "MachineLearning"
                             ],
