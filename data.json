@@ -1,0 +1,289 @@
+{
+    "schedule": [
+        {
+            "date": "2018-01-05",
+            "groups": [
+                {
+                    "time": "10th March",
+                    "sessions": [
+                        {
+                            "name": "Android Development",
+                            "location": "The Complete Guide To Android App Development",
+                            "description": "Become a World-class App developer, and be able to work in any organization, done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+                            "speakerNames": [
+                                "Android Development"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "Android"
+                            ],
+                            "id": "1"
+                        }
+                      
+                    ]
+                },
+                {
+                    "time": "12th March",
+                    "sessions": [
+                        {
+                            "name": "Front-End Web Development",
+                            "location": "Dive In To The Core Of Front-End Design",
+                            "description": "Design Beautiful And Elegant User Interface, done.  \n Push Your Project Into Production",
+                            "speakerNames": [
+                                "Front-End Web Development"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "FrontEnd"
+                            ],
+                            "id": "2"
+                        }
+                    ]
+                },
+                { 
+                    "time": "20th March",
+                    "sessions": [{
+                        "name": "Data Analysis/Science",
+                        "location": "Learn Data Science And Analysis The Right Way",
+                        "description": "Become a World-class App developer, and be able to work in any organization done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+                        "speakerNames": [
+                            "Data Analysis/Science"
+                        ],
+                        "timeStart": "",
+                        "timeEnd": "",
+                        "tracks": [
+                            "DataAnalysis"
+                        ],
+                        "id": "3"
+                    }
+                    ]
+                },
+                {
+                    "time": "27th March",
+                    "sessions": [
+                        {
+                            "name": "Back-End Web Development",
+                            "location": "Delve in to the world of Back-End Web Development",
+                            "description": "Complete Guide Into Programming Back-End For Web Applications",  
+                            "speakerNames": [
+                                "Back-End Web Development"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "BackEnd"
+                            ],
+                            "id": "4"
+                        }
+                    ]
+                },
+             
+                {
+                    "time": "4th April",
+                    "sessions": [
+                        {
+                            "name": "Digital Marketing",
+                            "location": "All You Need To Know About Digital Marketing",
+                            "description": "...",
+                            "speakerNames": [
+                                "Digital Marketing"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "Marketing"
+                            ],
+                            "id": "5"
+                        }
+                    ]
+                },
+                {
+                    "time": "16th April",
+                    "sessions": [
+                        {
+                            "name": "UI/UX Design",
+                            "location": "Deep Dive Into User interface/Experience Design",
+                            "description": "...",
+                            "speakerNames": [
+                                "UI/UX Design"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "UIDesign"
+                            ],
+                            "id": "6"
+                        }
+                    ]
+                },
+                {
+                    "time": "25th April",
+                    "sessions": [
+                        {
+                            "name": "Blockchain Essentials",
+                            "location": "Blockchain is an emerging technology that can radically improve banking, supply chain, etc and can create new opportunities for innovation.",
+                            "description": "...",
+                            "speakerNames": [
+                                "Blockchain Essentials"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "Blockchain"
+                            ],
+                            "id": "7"
+                        }
+                    ]
+                },
+                {
+                    "time": "28th April",
+                    "sessions": [
+                        {
+                            "name": "Build Your Own Chatbot",
+                            "location": "Chatbots are one of the most exciting and in-demand topics in tech. Gartner predicts that by 2020, 85% of businesses will have their own chatbot.",
+                            "description": "",
+                            "speakerNames": [
+                                "Chatbot"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "Chatbot"
+                            ],
+                            "id": "8"
+                        }
+                    ]
+                },
+                {
+                    "time": "30th May",
+                    "sessions": [
+                        {
+                            "name": "Machine Learning with Python",
+                            "location": "This course dives into the basics of machine learning using an approachable, and well-known, programming language.",
+                            "description": "",
+                            "speakerNames": [
+                                "Machine Learning"
+                            ],
+                            "timeStart": "",
+                            "timeEnd": "",
+                            "tracks": [
+                                "MachineLearning"
+                            ],
+                            "id": "9"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "speakers": [
+        {
+            "name": "Back-End Web Development",
+            "profilePic": "assets/img/speakers/backend.jpg",
+            "twitter": "favcode54",
+            "about": "Back-End Web Development",
+            "location": "Everywhere",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "1"
+        },
+        {
+            "name": "Data Analysis/Science",
+            "profilePic": "assets/img/speakers/datascience.jpg",
+            "twitter": "favcode54",
+            "about": "Learn Data Science And Analysis The Right Way",
+            "location": "Everywhere",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "2"
+        },
+        {
+            "name": "Android Development",
+            "profilePic": "assets/img/speakers/android-dev.jpg",
+            "twitter": "favcode54",
+            "about": "The Complete Guide To Android App Development",
+            "location": "Become a World-class App developer, and be able to work in any organization done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+            "email": "https://courses.favcode54.org/courses/android/",
+            "phone": "",
+            "id": "3"
+        },{
+            "name": "Front-End Web Development",
+            "profilePic": "assets/img/speakers/frontend.jpg",
+            "twitter": "favcode54",
+            "about": "Design Beautiful And Elegant User Interface done. Push Your Project Into Production",
+            "location": "Dive In To The Core Of Front-End Design",
+            "email": "https://courses.favcode54.org/courses/front-end/",
+            "phone": "",
+            "id": "4"
+        },
+        {
+            "name": "Digital Marketing",
+            "profilePic": "assets/img/speakers/marketing.jpg",
+            "twitter": "favcode54",
+            "about": "All You Need To Know About Digital Marketing",
+            "location": "",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "5"
+        },
+        {
+            "name": "UI/UX Design",
+            "profilePic": "assets/img/speakers/ui.jpg",
+            "twitter": "favcode54",
+            "about": "Deep Dive Into User interface/Experience Design",
+             "location": "",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "6"
+        }, {
+            "name": "Blockchain Essentials",
+            "profilePic": "assets/img/speakers/blockchain.gif",
+            "twitter": "favcode54",
+            "about": "Blockchain is an emerging technology that can radically improve banking, supply chain, etc and can create new opportunities for innovation.",
+             "location": "",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "7"
+        },
+        {
+            "name": "Chatbot",
+            "profilePic": "assets/img/speakers/chatbot.png",
+            "twitter": "favcode54",
+            "about": "Chatbots are one of the most exciting and in-demand topics in tech. Gartner predicts that by 2020, 85% of businesses will have their own chatbot.",
+             "location": "",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "8"
+        },
+        {
+            "name": "Machine Learning",
+            "profilePic": "assets/img/speakers/mlearning.jpg",
+            "twitter": "favcode54",
+            "about": "This course dives into the basics of machine learning using an approachable, and well-known, programming language.",
+            "location": "",
+            "email": "https://courses.favcode54.org/#",
+            "phone": "",
+            "id": "8"
+        }
+    ],
+    "map": [
+        {
+            "name": "Monona Terrace Convention Center",
+            "lat": 43.071584,
+            "lng": -89.38012,
+            "center": true
+        },
+        {
+            "name": "Ionic HQ",
+            "lat": 43.074395,
+            "lng": -89.381056
+        },
+        {
+            "name": "Afterparty - Brocach Irish Pub",
+            "lat": 43.07336,
+            "lng": -89.38335
+        }
+    ]
+}
