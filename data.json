@@ -4,6 +4,26 @@
             "date": "2018-01-05",
             "groups": [
                 {
+                    "time": "30th April",
+                    "sessions": [
+                        {
+                            "name": "Android Development",
+                            "location": "The Complete Guide To Android App Development",
+                            "description": "Become a World-class App developer, and be able to work in any organization, done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+                            "speakerNames": [
+                                "Android Development"
+                            ],
+                            "timeStart": "30th April",
+                            "timeEnd": "7th May",
+                            "tracks": [
+                                "Android"
+                            ],
+                            "id": "1"
+                        }
+                      
+                    ]
+                },
+                {
                     "time": "10th March",
                     "sessions": [
                         {
