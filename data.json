@@ -7,18 +7,18 @@
                     "time": "30th April",
                     "sessions": [
                         {
-                            "name": "Android Development",
-                            "location": "The Complete Guide To Android App Development",
-                            "description": "Become a World-class App developer, and be able to work in any organization, done. \n Make pretty much any Android app you like (your only limit is your imagination)",
+                            "name": "Artificial Intelligence",
+                            "location": "Delve into the world of AI Development",
+                            "description": "Become a World-class AI developer, and be able to Create stubbing AI's. \n Make pretty much any AI you like (your only limit is your imagination)",
                             "speakerNames": [
-                                "Android Development"
+                                "MachineLearning"
                             ],
                             "timeStart": "30th April",
                             "timeEnd": "7th May",
                             "tracks": [
-                                "Android"
+                                "MachineLearning"
                             ],
-                            "id": "1"
+                            "id": "10"
                         }
                       
                     ]
